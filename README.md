@@ -1,10 +1,10 @@
 # Silkviser: Blockchain Cryptocurrency Visualization Dashboard
 
-Overview
+# Overview
 
 Silkviser is a full-stack web application designed to visualize blockchain-based cryptocurrency transaction data. It provides an interactive dashboard that allows users to explore blockchain structure, blocks, transactions, and addresses through dynamic visualizations. The system helps both novice and experienced users understand cryptocurrency trends and transaction relationships.
 
-Features
+# Features
 
 Interactive blockchain dashboard
 
@@ -22,8 +22,9 @@ Dataset toggle for comparing different cryptocurrency datasets
 
 Filtering and brushing for detailed data exploration
 
-Visualization Components
-Blockchain Page
+# Visualization Components
+
+**Blockchain Page**
 
 Displays recent blocks and blockchain statistics
 
@@ -31,7 +32,7 @@ Transaction and block generation trend charts
 
 Timeline-based block relationship visualization
 
-Block Page
+**Block Page**
 
 Detailed block information
 
@@ -41,7 +42,7 @@ Transaction size and fee distribution charts
 
 Interactive transaction table
 
-Transaction Page
+**Transaction Page**
 
 Transaction details and metadata
 
@@ -49,7 +50,7 @@ Sankey diagram showing input-output address flow
 
 Address-level transaction breakdown
 
-Address Page
+**Address Page**
 
 Address balance and transaction history
 
@@ -57,8 +58,9 @@ Monthly balance and activity trends
 
 Interactive transaction navigation
 
-Tech Stack
-Frontend
+# Tech Stack
+
+**Frontend**
 
 React.js
 
@@ -68,24 +70,24 @@ JavaScript
 
 HTML/CSS
 
-Backend
+**Backend**
 
 Flask (Python)
 
 REST APIs
 
-Data
+**Data**
 
 Bitcoin Blockchain API
 
 Custom Silubium dataset (JSON)
 
-Tools
+**Tools**
 
 Git & GitHub
 
 VS Code
 
-Architecture
+# Architecture
 
 Frontend (React + D3.js) communicates with the backend (Flask) through REST APIs. The backend fetches blockchain data from external APIs and stores it in a database. The frontend visualizes this data using interactive charts and diagrams.
