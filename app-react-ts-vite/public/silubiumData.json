@@ -1,0 +1,772 @@
+[
+    {
+        "transactions": 412345,
+        "month": "15 Nov 23",
+        "blocks": 100
+    },
+    {
+        "transactions": 589761,
+        "month": "16 Nov 23",
+        "blocks": 89
+    },
+    {
+        "transactions": 567892,
+        "month": "17 Nov 23",
+        "blocks": 95
+    },
+    {
+        "transactions": 457891,
+        "month": "18 Nov 23",
+        "blocks": 160
+    },
+    {
+        "transactions": 456123,
+        "month": "19 Nov 23",
+        "blocks": 120
+    },
+    {
+        "transactions": 698234,
+        "month": "20 Nov 23",
+        "blocks": 126
+    },
+    {
+        "transactions": 698473,
+        "month": "21 Nov 23",
+        "blocks": 130
+    },
+    {
+        "transactions": 653218,
+        "month": "22 Nov 23",
+        "blocks": 180
+    },
+    {
+        "transactions": 748923,
+        "month": "23 Nov 23",
+        "blocks": 172
+    },
+    {
+        "transactions": 578469,
+        "month": "24 Nov 23",
+        "blocks": 174
+    },
+    {
+        "transactions": 874598,
+        "month": "25 Nov 23",
+        "blocks": 176
+    },
+    {
+        "transactions": 897234,
+        "month": "26 Nov 23",
+        "blocks": 178
+    },
+    {
+        "transactions": 874598,
+        "month": "27 Nov 23",
+        "blocks": 160
+    },
+    {
+        "transactions": 729834,
+        "month": "28 Nov 23",
+        "blocks": 162
+    },
+    {
+        "transactions": 784239,
+        "month": "29 Nov 23",
+        "blocks": 163
+    },
+    {
+        "transactions": 769824,
+        "month": "30 Nov 23",
+        "blocks": 164
+    },
+    {
+        "transactions": 612398,
+        "month": "1 Dec 23",
+        "blocks": 166
+    },
+    {
+        "transactions": 593846,
+        "month": "2 Dec 23",
+        "blocks": 169
+    },
+    {
+        "transactions": 527913,
+        "month": "3 Dec 23",
+        "blocks": 110
+    },
+    {
+        "transactions": 547813,
+        "month": "4 Dec 23",
+        "blocks": 120
+    },
+    {
+        "transactions": 721398,
+        "month": "5 Dec 23",
+        "blocks": 118
+    },
+    {
+        "transactions": 746829,
+        "month": "6 Dec 23",
+        "blocks": 127
+    },
+    {
+        "transactions": 649287,
+        "month": "7 Dec 23",
+        "blocks": 125
+    },
+    {
+        "transactions": 659384,
+        "month": "8 Dec 23",
+        "blocks": 119
+    },
+    {
+        "transactions": 723984,
+        "month": "9 Dec 23",
+        "blocks": 126
+    },
+    {
+        "transactions": 734298,
+        "month": "10 Dec 23",
+        "blocks": 117
+    },
+    {
+        "transactions": 769823,
+        "month": "11 Dec 23",
+        "blocks": 118
+    },
+    {
+        "transactions": 865432,
+        "month": "12 Dec 23",
+        "blocks": 114
+    },
+    {
+        "transactions": 879234,
+        "month": "13 Dec 23",
+        "blocks": 112
+    },
+    {
+        "transactions": 612398,
+        "month": "14 Dec 23",
+        "blocks": 110
+    },
+    {
+        "transactions": 657894,
+        "month": "15 Dec 23",
+        "blocks": 130
+    },
+    {
+        "transactions": 643287,
+        "month": "16 Dec 23",
+        "blocks": 132
+    },
+    {
+        "transactions": 541879,
+        "month": "17 Dec 23",
+        "blocks": 132
+    },
+    {
+        "transactions": 563947,
+        "month": "18 Dec 23",
+        "blocks": 133
+    },
+    {
+        "transactions": 572198,
+        "month": "19 Dec 23",
+        "blocks": 135
+    },
+    {
+        "transactions": 657432,
+        "month": "20 Dec 23",
+        "blocks": 136
+    },
+    {
+        "transactions": 693274,
+        "month": "21 Dec 23",
+        "blocks": 137
+    },
+    {
+        "transactions": 642198,
+        "month": "22 Dec 23",
+        "blocks": 102
+    },
+    {
+        "transactions": 541298,
+        "month": "23 Dec 23",
+        "blocks": 104
+    },
+    {
+        "transactions": 529487,
+        "month": "24 Dec 23",
+        "blocks": 104
+    },
+    {
+        "transactions": 576432,
+        "month": "25 Dec 23",
+        "blocks": 105
+    },
+    {
+        "transactions": 698473,
+        "month": "26 Dec 23",
+        "blocks": 112
+    },
+    {
+        "transactions": 631297,
+        "month": "27 Dec 23",
+        "blocks": 110
+    },
+    
+    {
+        "transactions": 674298,
+        "month": "28 Dec 23",
+        "blocks": 108
+    },
+    {
+        "transactions": 621349,
+        "month": "29 Dec 23",
+        "blocks": 112
+    },
+    {
+        "transactions": 635289,
+        "month": "30 Dec 23",
+        "blocks": 114
+    },
+    {
+        "transactions": 567892,
+        "month": "31 Dec 23",
+        "blocks": 120
+    },
+    {
+        "transactions": 694827,
+        "month": "1 Jan 24",
+        "blocks": 140
+    },
+    {
+        "transactions": 687324,
+        "month": "2 Jan 24",
+        "blocks": 147
+    },
+    {
+        "transactions": 325879,
+        "month": "3 Jan 24",
+        "blocks": 135
+    },
+    {
+        "transactions": 420884,
+        "month": "4 Jan 24",
+        "blocks": 135
+    },
+    {
+        "transactions": 382140,
+        "month": "5 Jan 24",
+        "blocks": 136
+    },
+    {
+        "transactions": 376548,
+        "month": "6 Jan 24",
+        "blocks": 140
+    },
+    {
+        "transactions": 592347,
+        "month": "7 Jan 24",
+        "blocks": 150
+    },
+    {
+        "transactions": 428976,
+        "month": "8 Jan 24",
+        "blocks": 150
+    },
+    {
+        "transactions": 496781,
+        "month": "9 Jan 24",
+        "blocks": 151
+    },
+    {
+        "transactions": 449075,
+        "month": "10 Jan 24",
+        "blocks": 151
+    },
+    {
+        "transactions": 562347,
+        "month": "11 Jan 24",
+        "blocks": 152
+    },
+    {
+        "transactions": 652483,
+        "month": "12 Jan 24",
+        "blocks": 152
+    },
+    {
+        "transactions": 591806,
+        "month": "13 Jan 24",
+        "blocks": 153
+    },
+    {
+        "transactions": 597864,
+        "month": "14 Jan 24",
+        "blocks": 190
+    },
+    {
+        "transactions": 470122,
+        "month": "15 Jan 24",
+        "blocks": 190
+    },
+    {
+        "transactions": 495678,
+        "month": "16 Jan 24",
+        "blocks": 189
+    },
+    {
+        "transactions": 484017,
+        "month": "17 Jan 24",
+        "blocks": 187
+    },
+    {
+        "transactions": 589627,
+        "month": "18 Jan 24",
+        "blocks": 186
+    },
+    {
+        "transactions": 563331,
+        "month": "19 Jan 24",
+        "blocks": 186
+    },
+    {
+        "transactions": 612398,
+        "month": "20 Jan 24",
+        "blocks": 185
+    },
+    {
+        "transactions": 624879,
+        "month": "21 Jan 24",
+        "blocks": 189
+    },
+    {
+        "transactions": 739284,
+        "month": "22 Jan 24",
+        "blocks": 190
+    },
+    {
+        "transactions": 678945,
+        "month": "23 Jan 24",
+        "blocks": 191
+    },
+    {
+        "transactions": 598726,
+        "month": "24 Jan 24",
+        "blocks": 191
+    },
+    {
+        "transactions": 598726,
+        "month": "25 Jan 24",
+        "blocks": 192
+    },
+    {
+        "transactions": 597446,
+        "month": "26 Jan 24",
+        "blocks": 192
+    },
+    {
+        "transactions": 589761,
+        "month": "27 Jan 24",
+        "blocks": 193
+    },
+    {
+        "transactions": 496781,
+        "month": "28 Jan 24",
+        "blocks": 185
+    },
+    {
+        "transactions": 523509,
+        "month": "29 Jan 24",
+        "blocks": 170
+    },
+    {
+        "transactions": 444450,
+        "month": "30 Jan 24",
+        "blocks": 172
+    },
+    {
+        "transactions": 413272,
+        "month": "31 Jan 24",
+        "blocks": 172
+    },
+    {
+        "transactions": 429732,
+        "month": "1 Feb 24",
+        "blocks": 175
+    },
+    {
+        "transactions": 515539,
+        "month": "2 Feb 24",
+        "blocks": 175
+    },
+    {
+        "transactions": 365829,
+        "month": "3 Feb 24",
+        "blocks": 178
+    },
+    {
+        "transactions": 385972,
+        "month": "4 Feb 24",
+        "blocks": 177
+    },
+    {
+        "transactions": 395876,
+        "month": "5 Feb 24",
+        "blocks": 179
+    },
+    {
+        "transactions": 479863,
+        "month": "6 Feb 24",
+        "blocks": 180
+    },
+    {
+        "transactions": 431298,
+        "month": "7 Feb 24",
+        "blocks": 140
+    },
+    {
+        "transactions": 483219,
+        "month": "8 Feb 24",
+        "blocks": 142
+    },
+    {
+        "transactions": 457891,
+        "month": "9 Feb 24",
+        "blocks": 138
+    },
+    {
+        "transactions": 438172,
+        "month": "10 Feb 24",
+        "blocks": 139
+    },
+    {
+        "transactions": 562943,
+        "month": "11 Feb 24",
+        "blocks": 138
+    },
+    {
+        "transactions": 567892,
+        "month": "12 Feb 24",
+        "blocks": 136
+    },
+    {
+        "transactions": 589124,
+        "month": "13 Feb 24",
+        "blocks": 145
+    },
+    {
+        "transactions": 569781,
+        "month": "14 Feb 24",
+        "blocks": 146
+    },
+    {
+        "transactions": 596184,
+        "month": "15 Feb 24",
+        "blocks": 147
+    },
+    {
+        "transactions": 327713,
+        "month": "16 Feb 24",
+        "blocks": 120
+    },
+    {
+        "transactions": 596184,
+        "month": "17 Feb 24",
+        "blocks": 121
+    },
+    {
+        "transactions": 589124,
+        "month": "18 Feb 24",
+        "blocks": 122
+    },
+    {
+        "transactions": 645872,
+        "month": "19 Feb 24",
+        "blocks": 122
+    },
+    {
+        "transactions": 635492,
+        "month": "20 Feb 24",
+        "blocks": 122
+    },
+    {
+        "transactions": 612398,
+        "month": "21 Feb 24",
+        "blocks": 123
+    },
+    {
+        "transactions": 569781,
+        "month": "22 Feb 24",
+        "blocks": 134
+    },
+    {
+        "transactions": 598273,
+        "month": "23 Feb 24",
+        "blocks": 131
+    },
+    {
+        "transactions": 365829,
+        "month": "24 Feb 24",
+        "blocks": 132
+    },
+    {
+        "transactions": 356184,
+        "month": "25 Feb 24",
+        "blocks": 133
+    },
+    {
+        "transactions": 348912,
+        "month": "26 Feb 24",
+        "blocks": 133
+    },
+    {
+        "transactions": 498723,
+        "month": "27 Feb 24",
+        "blocks": 134
+    },
+    {
+        "transactions": 489273,
+        "month": "28 Feb 24",
+        "blocks": 135
+    },
+    {
+        "transactions": 392846,
+        "month": "29 Feb 24",
+        "blocks": 140
+    },
+    {
+        "transactions": 331289,
+        "month": "1 Mar 24",
+        "blocks": 143
+    },
+    {
+        "transactions": 667892,
+        "month": "2 Mar 24",
+        "blocks": 133
+    },
+    {
+        "transactions": 654287,
+        "month": "3 Mar 24",
+        "blocks": 134
+    },
+    {
+        "transactions": 494567,
+        "month": "4 Mar 24",
+        "blocks": 133
+    },
+    {
+        "transactions": 381934,
+        "month": "5 Mar 24",
+        "blocks": 132
+    },
+    {
+        "transactions": 494567,
+        "month": "6 Mar 24",
+        "blocks": 132
+    },
+    {
+        "transactions": 457891,
+        "month": "7 Mar 24",
+        "blocks": 140
+    },
+    {
+        "transactions": 359029,
+        "month": "8 Mar 24",
+        "blocks": 145
+    },
+    {
+        "transactions": 325879,
+        "month": "9 Mar 24",
+        "blocks": 147
+    },
+    {
+        "transactions": 628974,
+        "month": "10 Mar 24",
+        "blocks": 149
+    },
+    {
+        "transactions": 587643,
+        "month": "11 Mar 24",
+        "blocks": 150
+    },
+    {
+        "transactions": 543219,
+        "month": "12 Mar 24",
+        "blocks": 155
+    },
+    {
+        "transactions": 667892,
+        "month": "13 Mar 24",
+        "blocks": 1556
+    },
+    {
+        "transactions": 715829,
+        "month": "14 Mar 24",
+        "blocks": 159
+    },
+    {
+        "transactions": 721394,
+        "month": "15 Mar 24",
+        "blocks": 159
+    },
+    {
+        "transactions": 732984,
+        "month": "16 Mar 24",
+        "blocks": 159
+    },
+    {
+        "transactions": 712398,
+        "month": "17 Mar 24",
+        "blocks": 160
+    },
+    {
+        "transactions": 596743,
+        "month": "18 Mar 24",
+        "blocks": 162
+    },
+    {
+        "transactions": 591324,
+        "month": "19 Mar 24",
+        "blocks": 155
+    },
+    {
+        "transactions": 594278,
+        "month": "20 Mar 24",
+        "blocks": 157
+    },
+    {
+        "transactions": 589631,
+        "month": "21 Mar 24",
+        "blocks": 159
+    },
+    {
+        "transactions": 439827,
+        "month": "22 Mar 24",
+        "blocks": 160
+    },
+    {
+        "transactions": 784239,
+        "month": "23 Mar 24",
+        "blocks": 161
+    },
+    {
+        "transactions": 732984,
+        "month": "24 Mar 24",
+        "blocks": 162
+    },
+    {
+        "transactions": 719384,
+        "month": "25 Mar 24",
+        "blocks": 163
+    },
+    {
+        "transactions": 821937,
+        "month": "26 Mar 24",
+        "blocks": 164
+    },
+    {
+        "transactions": 681294,
+        "month": "27 Mar 24",
+        "blocks": 170
+    },
+    {
+        "transactions": 867543,
+        "month": "28 Mar 24",
+        "blocks": 170
+    },
+    {
+        "transactions": 836729,
+        "month": "29 Mar 24",
+        "blocks": 169
+    },
+    {
+        "transactions": 912348,
+        "month": "30 Mar 24",
+        "blocks": 171
+    },
+    {
+        "transactions": 924873,
+        "month": "31 Mar 24",
+        "blocks": 172
+    },
+    {
+        "transactions": 743289,
+        "month": "1 Apr 24",
+        "blocks": 173
+    },
+    {
+        "transactions": 715829,
+        "month": "2 Apr 24",
+        "blocks": 173
+    },
+    {
+        "transactions": 692847,
+        "month": "3 Apr 24",
+        "blocks": 174
+    },
+    {
+        "transactions": 679324,
+        "month": "4 Apr 24",
+        "blocks": 174
+    },
+    {
+        "transactions": 639872,
+        "month": "5 Apr 24",
+        "blocks": 175
+    },
+    {
+        "transactions": 526130,
+        "month": "6 Apr 24",
+        "blocks": 176
+    },
+    {
+        "transactions": 721398,
+        "month": "7 Apr 24",
+        "blocks": 176
+    },
+    {
+        "transactions": 764823,
+        "month": "8 Apr 24",
+        "blocks": 180
+    },
+    {
+        "transactions": 541879,
+        "month": "9 Apr 24",
+        "blocks": 181
+    },
+    {
+        "transactions": 543286,
+        "month": "10 Apr 24",
+        "blocks": 181
+    },
+    {
+        "transactions": 569432,
+        "month": "11 Apr 24",
+        "blocks": 185
+    },
+    {
+        "transactions": 567821,
+        "month": "12 Apr 24",
+        "blocks": 184
+    },
+    {
+        "transactions": 583219,
+        "month": "13 Apr 24",
+        "blocks": 184
+    },
+    {
+        "transactions": 598724,
+        "month": "14 Apr 24",
+        "blocks": 183
+    },
+    {
+        "transactions": 465839,
+        "month": "15 Apr 24",
+        "blocks": 181
+    }
+
+
+    
+
+]

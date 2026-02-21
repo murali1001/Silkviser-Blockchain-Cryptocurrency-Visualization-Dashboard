@@ -1,0 +1,21 @@
+.progress-bar {
+  width: 100%;
+  background-color: #debd94;
+  margin: 20px 0;
+  border: 1px solid #af7d47;
+}
+
+.progress-bar-filler {
+  justify-content: flex-end;
+  height: 10px;
+  background-color: #af7d47;
+}
+
+.progress-bar-label {
+  position: absolute;
+  font-size: small;
+  font-weight: bold;
+  margin-bottom: 300px;
+  font-family: 'Courier New', Courier, monospace;
+
+}

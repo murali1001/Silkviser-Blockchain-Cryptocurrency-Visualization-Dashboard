@@ -1,0 +1,51 @@
+.tx-hash-link {
+  font-family: 'Courier New', Courier, monospace;
+  color: #4086ce;
+  text-decoration: none;
+  font-weight: 500;
+  &:hover {
+    color: lightblue;
+  }
+}
+
+.data-grid-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.data-grid-container .MuiDataGrid-root {
+  // border-collapse: collapse;
+  // border: 1px solid #ccc;
+
+  .MuiDataGrid-row {
+    border-bottom: 1px solid darkgray;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+
+  .MuiDataGrid-footerContainer {
+    border-left: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+    border-right: 1px solid darkgray;
+  }
+  .MuiDataGrid-columnHeaders {
+    border-bottom: 1px solid darkgray;
+    border-top: 1px solid darkgray;
+  }
+  .MuiDataGrid-columnHeader {
+    border-left: 1px solid darkgray;
+
+    .MuiDataGrid-columnHeaderTitleContainerContent {
+      font-family: 'Courier New', Courier, monospace;
+      color: black;
+      font-weight: bold;
+    }
+  }
+
+  .MuiDataGrid-cell {
+    border-left: 1px solid darkgray;
+    padding: 8px;
+  }
+}
